@@ -1,0 +1,35 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/ip/RAM/sim/RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/ip/prgrom/sim/prgrom.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module prgrom
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/ip/clk23Mhz/clk23Mhz_clk_wiz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk23Mhz_clk_wiz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/ip/clk23Mhz/clk23Mhz.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk23Mhz
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/Executs32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Executs32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/Idecode32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Idecode32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/Ifetc32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Ifetc32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/clkx32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clkx32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/control32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control32
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/dmemory32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dmemory32
+INFO: [VRFC 10-2458] undeclared symbol clk, assumed default net type wire [C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/dmemory32.v:31]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/ioread.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ioread
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/leds.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module leds
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/memorio.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module memorio
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/minisys_sc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minisys_sc
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sources_1/imports/单周期CPU/switchs.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module switchs
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.srcs/sim_1/imports/单周期CPU/minisys_sc_sim.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module minisys_sc_sim
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/lm709/Single_Cycle_CPU/Single_Cycle_CPU.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
